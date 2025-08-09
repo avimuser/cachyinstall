@@ -1,0 +1,11 @@
+btrfs-progs
+cachyos-plymouth-bootanimation
+plymouth
+f2fs-tools
+inetutils
+jfsutils
+lsb-release
+netctl
+s-nail
+sysfsutils
+xfsprogs
